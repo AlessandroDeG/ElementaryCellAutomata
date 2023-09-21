@@ -1,7 +1,6 @@
 # ElementaryCellAutomata
 
-My experiments on Elementary Cellular Automaton:\
-
+My experiments on Elementary Cellular Automaton:
 
 Rule number 110 is Turing complete!
 
